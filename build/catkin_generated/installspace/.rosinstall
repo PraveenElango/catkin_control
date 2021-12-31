@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/crslab/catkin_control/install/setup.sh
